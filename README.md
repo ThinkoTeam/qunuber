@@ -1,6 +1,6 @@
 # QUNUBER-X-VOX 🚀
 
-Welcome to QUNUBER-X-VOX, your one-stop solution for Minecraft server management panels and essential coding language setups.
+Welcome to QUNUBER, your one-stop solution for Minecraft server management panels and essential coding language setups.
 
 ## Overview
 
@@ -26,7 +26,7 @@ QUNUBER-X-VOX simplifies the process of setting up Minecraft servers and ensures
 
 ## Installation
 
-To install QUNUBER-X-VOX, follow these simple steps:
+To install QUNUBER, follow these simple steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the directory containing the installation script.
